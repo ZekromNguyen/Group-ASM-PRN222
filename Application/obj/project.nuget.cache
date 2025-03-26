@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OEzQjSUZsUs=",
+  "success": true,
+  "projectFilePath": "/Users/mac/Project/Ass03Solution/Application/Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/mac/.nuget/packages/automapper/14.0.0/automapper.14.0.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.3/microsoft.extensions.dependencyinjection.abstractions.9.0.3.nupkg.sha512",
+    "/Users/mac/.nuget/packages/microsoft.extensions.options/8.0.0/microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

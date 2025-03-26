@@ -1,0 +1,15 @@
+/Users/mac/Project/Ass03Solution/Application/obj/Debug/net8.0/Application.csproj.AssemblyReference.cache
+/Users/mac/Project/Ass03Solution/Application/obj/Debug/net8.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Project/Ass03Solution/Application/obj/Debug/net8.0/Application.AssemblyInfoInputs.cache
+/Users/mac/Project/Ass03Solution/Application/obj/Debug/net8.0/Application.AssemblyInfo.cs
+/Users/mac/Project/Ass03Solution/Application/obj/Debug/net8.0/Application.csproj.CoreCompileInputs.cache
+/Users/mac/Project/Ass03Solution/Application/bin/Debug/net8.0/Application.deps.json
+/Users/mac/Project/Ass03Solution/Application/bin/Debug/net8.0/Application.dll
+/Users/mac/Project/Ass03Solution/Application/bin/Debug/net8.0/Application.pdb
+/Users/mac/Project/Ass03Solution/Application/bin/Debug/net8.0/Domain.dll
+/Users/mac/Project/Ass03Solution/Application/bin/Debug/net8.0/Domain.pdb
+/Users/mac/Project/Ass03Solution/Application/obj/Debug/net8.0/Applicat.44B5EDA2.Up2Date
+/Users/mac/Project/Ass03Solution/Application/obj/Debug/net8.0/Application.dll
+/Users/mac/Project/Ass03Solution/Application/obj/Debug/net8.0/refint/Application.dll
+/Users/mac/Project/Ass03Solution/Application/obj/Debug/net8.0/Application.pdb
+/Users/mac/Project/Ass03Solution/Application/obj/Debug/net8.0/ref/Application.dll
